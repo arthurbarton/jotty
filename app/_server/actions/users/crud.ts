@@ -151,8 +151,8 @@ export const createUser = async (
   const username = formData.get("username") as string;
 
   try {
-    const password = formData.get("password") as string;
-    const confirmPassword = formData.get("confirmPassword") as string;
+    const password = String(formData.get("password"));
+    const confirmPassword = String(formData.get("confirmPassword"));
     const isAdmin = formData.get("isAdmin") === "true";
 
     if (!username || !password || !confirmPassword) {
