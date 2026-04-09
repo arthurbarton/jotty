@@ -1276,7 +1276,7 @@
     "noEncryptionKeysConfigured": "Brak skonfigurowanych kluczy szyfrowania",
     "pastePublicKeyBelow": "Wklej publiczny klucz poniżej, aby zaszyfrować treść notatki",
     "generateOrImportKeysInProfile": "Możesz wygenerować lub zaimportować konkretne klucze dla Jotty w Profil → Szyfrowanie",
-    "useCustomKey": "Użyj niestandardowego {keyType} klucza",
+    "useCustomKey": "Użyj niestandardowego {keyType}",
     "signWithPrivateKey": "Podpisz prywatnym kluczem",
     "proveAuthenticityOfNote": "Udowodnij autentyczność tej notatki",
     "useStoredPrivateKey": "Użyj przechowywanego prywatnego klucza",

@@ -1317,7 +1317,7 @@
     "noEncryptionKeysConfigured": "您没有配置任何加密密钥",
     "pastePublicKeyBelow": "请在下方粘贴公钥以加密笔记内容",
     "generateOrImportKeysInProfile": "您可以在 个人资料 → 加密 中生成或导入 Jotty 专用密钥",
-    "useCustomKey": "使用自定义 {keyType} 密钥",
+    "useCustomKey": "使用自定义 {keyType}",
     "signWithPrivateKey": "用私钥签名",
     "proveAuthenticityOfNote": "证明此笔记的真实性",
     "useStoredPrivateKey": "使用存储的私钥",

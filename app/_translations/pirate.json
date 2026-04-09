@@ -1317,7 +1317,7 @@
     "noEncryptionKeysConfigured": "No keys set",
     "pastePublicKeyBelow": "Paste public key below",
     "generateOrImportKeysInProfile": "Go to Yer Mug -> Davy Jones' Locker",
-    "useCustomKey": "Use custom {keyType} key",
+    "useCustomKey": "Use custom {keyType}",
     "signWithPrivateKey": "Sign with private key",
     "proveAuthenticityOfNote": "prove it's real",
     "useStoredPrivateKey": "Use stored key",

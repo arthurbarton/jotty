@@ -1318,7 +1318,7 @@
     "noEncryptionKeysConfigured": "You don't have any encryption keys configured",
     "pastePublicKeyBelow": "Please paste a public key below to encrypt the note content",
     "generateOrImportKeysInProfile": "You can generate or import specific keys for Jotty in Profile → Encryption",
-    "useCustomKey": "Use custom {keyType} key",
+    "useCustomKey": "Use custom {keyType}",
     "signWithPrivateKey": "Sign with private key",
     "proveAuthenticityOfNote": "prove authenticity of this note",
     "useStoredPrivateKey": "Use stored private key",

@@ -1309,7 +1309,7 @@
     "noEncryptionKeysConfigured": "Yapılandırılmış şifreleme anahtarınız yok",
     "pastePublicKeyBelow": "Not içeriğini şifrelemek için lütfen aşağıya bir genel anahtar yapıştırın",
     "generateOrImportKeysInProfile": "Jotty için özel anahtarları Profil → Şifreleme bölümünden oluşturabilir veya içe aktarabilirsiniz",
-    "useCustomKey": "Özel {keyType} anahtarı kullan",
+    "useCustomKey": "Özel {keyType} kullan",
     "signWithPrivateKey": "Özel anahtar ile imzala",
     "proveAuthenticityOfNote": "bu notun orijinalliğini kanıtla",
     "useStoredPrivateKey": "Kayıtlı özel anahtarı kullan",

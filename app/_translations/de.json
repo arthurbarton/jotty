@@ -1258,7 +1258,7 @@
     "noEncryptionKeysConfigured": "Du hast keine Schlüssel konfiguriert",
     "pastePublicKeyBelow": "Bitte füge unten einen öffentlichen Schlüssel ein, um den Notizinhalt zu verschlüsseln",
     "generateOrImportKeysInProfile": "Unter Profil → Verschlüsselung kannst du Schlüssel speziell für Jotty erzeugen oder importieren",
-    "useCustomKey": "Benutzerdefinierten {keyType} Schlüssel verwenden",
+    "useCustomKey": "Benutzerdefinierten {keyType} verwenden",
     "signWithPrivateKey": "Mit privatem Schlüssel signieren",
     "proveAuthenticityOfNote": "Authentizität dieser Notiz prüfen",
     "useStoredPrivateKey": "Gespeicherten privaten Schlüssel verwenden",

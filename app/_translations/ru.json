@@ -1317,7 +1317,7 @@
     "noEncryptionKeysConfigured": "У вас нет настроенных ключей шифрования",
     "pastePublicKeyBelow": "Пожалуйста, вставьте открытый ключ ниже для шифрования содержимого заметки",
     "generateOrImportKeysInProfile": "Вы можете сгенерировать или импортировать конкретные ключи для Jotty в Профиль → Шифрование",
-    "useCustomKey": "Использовать пользовательский ключ {keyType}",
+    "useCustomKey": "Использовать пользовательский {keyType}",
     "signWithPrivateKey": "Подписать закрытым ключом",
     "proveAuthenticityOfNote": "подтвердить подлинность этой заметки",
     "useStoredPrivateKey": "Использовать сохранённый закрытый ключ",

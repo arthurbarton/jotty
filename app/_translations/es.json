@@ -1275,7 +1275,7 @@
     "noEncryptionKeysConfigured": "No tiene claves de encriptación configuradas",
     "pastePublicKeyBelow": "Por favor, pegue una clave pública para encriptar el contenido de la nota",
     "generateOrImportKeysInProfile": "Puede generar o importar claves específicas para Jotty en Perfil → Encriptación",
-    "useCustomKey": "Usar clave {keyType} personalizada",
+    "useCustomKey": "Usar {keyType} personalizada",
     "signWithPrivateKey": "Firmar con clave privada",
     "proveAuthenticityOfNote": "probar la autenticidad de esta nota",
     "useStoredPrivateKey": "Usar clave privada almacenada",

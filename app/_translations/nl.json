@@ -1275,7 +1275,7 @@
     "noEncryptionKeysConfigured": "U heeft geen versleutelingssleutels geconfigureerd",
     "pastePublicKeyBelow": "Plak hieronder een publieke sleutel om de notitie-inhoud te versleutelen",
     "generateOrImportKeysInProfile": "U kunt specifieke sleutels voor Jotty genereren of importeren in Profiel → Versleuteling",
-    "useCustomKey": "Gebruik aangepaste {keyType} sleutel",
+    "useCustomKey": "Gebruik aangepaste {keyType}",
     "signWithPrivateKey": "Onderteken met privésleutel",
     "proveAuthenticityOfNote": "authenticiteit van deze notitie bewijzen",
     "useStoredPrivateKey": "Gebruik opgeslagen privésleutel",
